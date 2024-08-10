@@ -1,0 +1,18 @@
+[
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 9,
+            "name": "Xəngəl Gürcü (1əd)",
+            "price": "0.80"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 9,
+            "name": "Xəngəl Yarpaq",
+            "price": "4.00"
+        }
+    }
+]
