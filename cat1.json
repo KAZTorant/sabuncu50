@@ -1,0 +1,114 @@
+[
+    {
+        "model": "meals.MealCategory",
+        "pk": 1,
+        "fields": {
+            "name": "KABABLAR",
+            "description": "Various types of kebabs"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 2,
+            "name": "Atrikot",
+            "price": "7.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 2,
+            "name": "Basdırma",
+            "price": "6.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 2,
+            "name": "Ciyər Kəbab",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 2,
+            "name": "Ciyər Quyruq Kəbab",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 2,
+            "name": "Çöp Toyuq",
+            "price": "2.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 2,
+            "name": "Kartof Külləmə",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 2,
+            "name": "Kartof Quyruq",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 2,
+            "name": "Lülə (Quzu)",
+            "price": "6.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 2,
+            "name": "Lülə (Toyuq)",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 2,
+            "name": "Tərəvəz Kəbab (3əd)",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 2,
+            "name": "Tikə (Quzu)",
+            "price": "6.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 2,
+            "name": "Toyuq Kəbab (File)",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 2,
+            "name": "Toyuq Kəbab (Qarışıq)",
+            "price": "3.00"
+        }
+    }
+]
