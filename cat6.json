@@ -1,5 +1,14 @@
 [
     {
+        "model": "meals.MealCategory",
+        "pk": 6,
+        "fields": {
+            "name": "SƏHƏR YEMƏKLƏRİ",
+            "description": "SƏHƏR YEMƏKLƏRİ"
+        }
+    },
+    
+    {
         "model": "meals.Meal",
         "fields": {
             "category": 6,
