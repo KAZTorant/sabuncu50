@@ -1,0 +1,42 @@
+[
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "QƏLYAN ÇAŞKA",
+            "price": "8.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "KOMBO SET 10AZN",
+            "price": "10.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "KOMBO SET 20",
+            "price": "20.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Qəlyan Çaşka -1+1",
+            "price": "14.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "QƏLYAN QREYFRUT",
+            "price": "12.00"
+        }
+    }
+]
