@@ -1,5 +1,13 @@
 [
     {
+        "model": "meals.MealCategory",
+        "pk": 4,
+        "fields": {
+            "name": "QƏLYAN",
+            "description": "QƏLYANLAR"
+        }
+    },
+    {
         "model": "meals.Meal",
         "fields": {
             "category": 4,
