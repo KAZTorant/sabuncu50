@@ -1,0 +1,146 @@
+[
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Ayran Stəkan",
+            "price": "0.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Akroşka Bakal",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Akroşka Qrafin",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Akroşka Stəkan",
+            "price": "0.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Ayran Bakal",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Ayran Qrafin",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Doğa Bakal",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Doğa stekan",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Duşes şüşə 0.5L",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Nar Suyu",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Nar Suyu 1litr",
+            "price": "10.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Pepsi 0.5L",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Pepsi 1L",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Qazlı/Qazsız şüşə 0.5/L",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Reyhan Kampot Baklal",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "Reyhan Kampot Stəkan",
+            "price": "0.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "REYHAN QRAFIN",
+            "price": "3.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 8,
+            "name": "TEBBi Wire",
+            "price": "3.00"
+        }
+    }
+]
