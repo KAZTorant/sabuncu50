@@ -1,0 +1,114 @@
+[
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 6,
+            "name": "PENDIR 1m",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 6,
+            "name": "BAL2m",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 6,
+            "name": "KÜKÜ",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 6,
+            "name": "KÜKÜ",
+            "price": ""
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 6,
+            "name": "Pamidor Yumurta",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 6,
+            "name": "QAYMAQ2m",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 6,
+            "name": "QAYQANAQ",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 6,
+            "name": "Qlazok",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 6,
+            "name": "Sosiska Pamidor Yumurta",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 6,
+            "name": "Sosiska Soyutma",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 6,
+            "name": "Sosiska Yumurta",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 6,
+            "name": "SOYUTMA YUMURTA 1EDED   2",
+            "price": "0.75"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 6,
+            "name": "Yağ 2m",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 6,
+            "name": "Yumurta Soyutma (3əd)",
+            "price": "2.50"
+        }
+    }
+]
