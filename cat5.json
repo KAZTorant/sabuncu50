@@ -1,0 +1,154 @@
+[
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Göyərti",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Acika",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Coban salat",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "COBAN SALATI BOYUK",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Ketçup",
+            "price": "0.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Manqal Salati",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Mayonez",
+            "price": "0.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Pendir",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "QARIŞIQ SALAT",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Qatıq Küp",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Salat Assorti",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Salat Mimoza",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Salat Paytaxt",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Salat Toyuq",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Sveji (balaca)",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Sveji (böyük)",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Turşu (balaca)",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Turşu (böyük)",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 5,
+            "name": "Turşu Böyuk 4m",
+            "price": "4.00"
+        }
+    }
+]
