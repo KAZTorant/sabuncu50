@@ -1,5 +1,13 @@
 [
     {
+        "model": "meals.MealCategory",
+        "pk": 7,
+        "fields": {
+            "name": "ŞORBALAR",
+            "description": "ŞORBALAR"
+        }
+    },
+    {
         "model": "meals.Meal",
         "fields": {
             "category": 7,
