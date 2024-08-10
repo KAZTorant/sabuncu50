@@ -1,5 +1,13 @@
 [
     {
+        "model": "meals.MealCategory",
+        "pk": 5,
+        "fields": {
+            "name": "SALATLAR",
+            "description": "SALATLAR"
+        }
+    },
+    {
         "model": "meals.Meal",
         "fields": {
             "category": 5,
