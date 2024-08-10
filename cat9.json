@@ -1,5 +1,13 @@
 [
     {
+        "model": "meals.MealCategory",
+        "pk": 9,
+        "fields": {
+            "name": "XƏMİR YEMƏKLƏRİ",
+            "description": "XƏMİR YEMƏKLƏRİ"
+        }
+    },
+    {
         "model": "meals.Meal",
         "fields": {
             "category": 9,
