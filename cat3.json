@@ -1,0 +1,370 @@
+[
+    {
+        "model": "meals.MealCategory",
+        "pk": 3,
+        "fields": {
+            "name": "QAZAN YEMƏKLƏR",
+            "description": "Traditional pot meals"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Aş Qara 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Aş Qara",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "BUD sade suxarili",
+            "price": "1.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Buğlama",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Buğlama 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Çoban Qovurma",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Çoban Qovurma 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Dolma Kələm",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Dolma Kələm 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Dolma ÜçBacı",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Dolma ÜçBacı 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Dolma Yarpaq",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Dolma Yarpaq 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Ev Sayağı Tuşonka",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Ev Sayağı Tuşonka 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "İmisli Qovurma",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "İmisli Qovurma 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Jaarko",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Jaarko 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "JULYEN",
+            "price": "6.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Kotlet Ət (1əd)",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Kotlet Toyuq (1əd)",
+            "price": "1.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "KÜKÜ QİYMƏLİ",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Langet Ət +Qarnir",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Langet Toyuq +Qarnir",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Nar Qovurma Ət",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Nar Qovurma Ət 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Nar Qovurma Toyuq",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Nar Qovurma Toyuq 0.5",
+            "price": "2.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Özbək Plov",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Özbək Plov 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Piti",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Qaymaqlı Ət",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Qaymaqlı Ət 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Qaymaqlı Toyuq",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Qaymaqlı Toyuq 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Qulytaj Düyü",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Qulytaj Püre",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Qulytaj Qreçka",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Qulytaj Spagetty",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Səbzi Plov",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Səbzi Plov 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Tabaka 2/1",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Tabaka 4/1",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 4,
+            "name": "Tabaka Tam",
+            "price": "12.00"
+        }
+    }
+]
