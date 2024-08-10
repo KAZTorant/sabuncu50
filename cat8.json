@@ -1,5 +1,13 @@
 [
     {
+        "model": "meals.MealCategory",
+        "pk": 8,
+        "fields": {
+            "name": "SULAR",
+            "description": "SULAR"
+        }
+    },
+    {
         "model": "meals.Meal",
         "fields": {
             "category": 8,
