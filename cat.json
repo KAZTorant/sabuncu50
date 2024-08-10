@@ -1,0 +1,459 @@
+[
+
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Çay Çaynik 4m",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Ballı çay",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Biznes Lunc 6",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "CAPİÇONO 2",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Çay Çaynik",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Çay dezgahı 25AZN",
+            "price": "25.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Çay Stəkan",
+            "price": "0.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "ÇƏRƏZ",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "CİPSİ 4",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "DURUM2.50",
+            "price": "2.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "ENERJİ İÇKİ \\500ML",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "ENERJİ İÇKİ 200ML",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "iMSAK MENYUSU",
+            "price": "9.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "kofe 1m",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "limon 0.50",
+            "price": "0.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "limon 1eded",
+            "price": "1.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "MAROJNA",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "MEYVƏ",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "MUREBBE [RAZETKA]",
+            "price": "2.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Murebbe 7",
+            "price": "7.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Mürəbbə 6",
+            "price": ""
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "PAXLAVA TURK",
+            "price": "0.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "PENDIR QZARDLMIW SACAQ",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "ŞARJET",
+            "price": "0.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "SEHER YEMEYi 2 NEFERLIY",
+            "price": "18.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "SERT 6",
+            "price": "39.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "SERVİS 2",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "servis 3m",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "SERVİS 5",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "SET 1",
+            "price": "15.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "SET 2",
+            "price": "19.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "SET 3",
+            "price": "27.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "SET 4",
+            "price": "35.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "SET 5",
+            "price": "42.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "SET 7",
+            "price": "48.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "SET 8",
+            "price": "22.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Smovar Çay",
+            "price": "15.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Şokolad",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "SUDLAC",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Tort 0.50",
+            "price": "0.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Tort 2",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "TUM",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "XURMA 3M",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "YEMEY 10",
+            "price": "10.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "YEMEY 11",
+            "price": "11.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "YEMEY 12",
+            "price": "12.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "YEMEY 13",
+            "price": "13.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "yemey 3.50",
+            "price": "3.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Yemək 2",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Yemək 3",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Yemək 4",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Yemək 5",
+            "price": "5.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Yemək 5.50",
+            "price": ""
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Yemək 6",
+            "price": "6.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Yemək 7",
+            "price": "7.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Yemək 8",
+            "price": "8.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 1,
+            "name": "Yemək 9",
+            "price": "9.00"
+        }
+    }
+]
