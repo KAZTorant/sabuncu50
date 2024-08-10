@@ -1,0 +1,138 @@
+[
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Ərışdə 0.5",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Borş",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Borş 0.5",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Dovğa Kasa",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Düşbərə",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Düşbərə 0.5",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Ərışdə",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Fasulye Şorba",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Fasulye Şorba 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Mərci",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Mərci 0.5",
+            "price": "1.50"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Toyuq Şorba",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Toyuq Şorba 0.5",
+            "price": "2.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Xarço",
+            "price": "4.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Xarço 0.5",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Yayla",
+            "price": "3.00"
+        }
+    },
+    {
+        "model": "meals.Meal",
+        "fields": {
+            "category": 7,
+            "name": "Yayla 0.5",
+            "price": "2.00"
+        }
+    }
+]
